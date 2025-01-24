@@ -8,7 +8,7 @@ import { MinusCircledIcon, PlusCircledIcon } from "@radix-ui/react-icons";
 import AccountInfo from './account-info';
 import { Row } from '@radix-ui/themes/dist/cjs/components/table';
 
-const CONTRACT_ADDRESS = '0x314C8Ae00368A0bA2Fd52d8a46b944906B6fe800';
+const CONTRACT_ADDRESS = '0x2376Cbe5c7F1637A8DC9DaBbBAff125F1Cfc9CdB';
 
 interface ContractInteractionProps {
     account: string | null;
